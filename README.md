@@ -92,7 +92,5 @@ Excel dashboards are widely used by business stakeholders, and this extension sh
 •	Strong seasonality exists in airline pricing
 •	Longer-duration flights tend to be cheaper
 •	Total stops and journey month are the strongest price drivers
-
-
 📌 Conclusion
 This project demonstrates the complete data analytics lifecycle, from raw data cleaning to business insight generation using Python and Excel. It highlights strong analytical thinking, technical skills, and the ability to communicate insights effectively—making it ideal for fresher and entry-level Data Analyst roles.
